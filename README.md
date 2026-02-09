@@ -2,12 +2,14 @@
 
 This repository contains multiple web development projects.
 
+
 ## ★★ Useful Websites ★★
 
 - Git Workshop https://git-workshop.tecladocode.com/
 
 - Figma https://www.figma.com/
 - Trello https://trello.com/
+- Jinja2 builtin filters https://jinja.palletsprojects.com/en/3.0.x/templates/#list-of-builtin-filters
 
 ## MongoDB Atlas
 
@@ -26,3 +28,8 @@ https://render.com/ Launch new site
 - Add environment variables directly in Render
 - Configure MongoDB Atlas security (add allowed IP addresses)
 - The free plan allows up to 750 hours of usage per month
+
+## Developer
+
+- pip freeze
+- Flask Blueprint: A way to structure a Flask application into feature-based modules by grouping related endpoints.
